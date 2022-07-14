@@ -19,7 +19,7 @@ Api has has caching of 10 seconds. Refresh the page to see updated prices.
 
 localhost:8000/info has link to api that is being used to get all the data from different exchanges. 
 
-NOTE: This is just a server script. You can give this script to anyone to further develop your app. 
+NOTE: This is just a server script.  
 
 
 Following are the exchanges that are selected. 
